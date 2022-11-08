@@ -1,4 +1,4 @@
-module github.com/DanielRenne/mangosServer/pub
+module github.com/davidrenne/mangosServer/pub
 
 go 1.18
 

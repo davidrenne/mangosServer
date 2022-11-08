@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DanielRenne/mangosServer/raw"
+	"github.com/davidrenne/mangosServer/raw"
 	"github.com/go-mangos/mangos"
 	"log"
 )

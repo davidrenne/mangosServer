@@ -1,4 +1,4 @@
-module github.com/DanielRenne/mangosServer/survey
+module github.com/davidrenne/mangosServer/survey
 
 go 1.18
 

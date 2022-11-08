@@ -4,14 +4,14 @@ Example Code to start a survey server, send a survey, and receive a survey respo
 
 ## Installation:
 
-    go get github.com/DanielRenne/mangosServer/survey
+    go get github.com/davidrenne/mangosServer/survey
 
 ### Server Code
 
     package main
 
     import (
-    	"github.com/DanielRenne/mangosServer/survey"
+    	"github.com/davidrenne/mangosServer/survey"
     	"log"
     	"time"
     )

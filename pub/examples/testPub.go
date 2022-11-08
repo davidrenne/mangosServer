@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DanielRenne/mangosServer/pub"
+	"github.com/davidrenne/mangosServer/pub"
 	"log"
 	"time"
 )

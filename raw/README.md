@@ -2,7 +2,7 @@
 
 ## Installation:
 
-    go get github.com/DanielRenne/mangosServer/raw
+    go get github.com/davidrenne/mangosServer/raw
 
 Example Code to start a raw reply server, reply with a new message. The server will have 2 workers.
 
@@ -11,7 +11,7 @@ Example Code to start a raw reply server, reply with a new message. The server w
     package main
 
     import (
-    	"github.com/DanielRenne/mangosServer/raw"
+    	"github.com/davidrenne/mangosServer/raw"
     	"github.com/go-mangos/mangos"
     	"log"
     )

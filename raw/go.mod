@@ -1,4 +1,4 @@
-module github.com/DanielRenne/mangosServer/raw
+module github.com/davidrenne/mangosServer/raw
 
 go 1.18
 

@@ -12,14 +12,14 @@ Installation:
 
 ## PubSub:
 
-    go get github.com/DanielRenne/mangosServer/pub
+    go get github.com/davidrenne/mangosServer/pub
 
 ## Raw:
 
-    go get github.com/DanielRenne/mangosServer/raw
+    go get github.com/davidrenne/mangosServer/raw
 
 ## Survey:
 
-    go get github.com/DanielRenne/mangosServer/survey
+    go get github.com/davidrenne/mangosServer/survey
 
 View each package for examples

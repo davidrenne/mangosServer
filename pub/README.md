@@ -4,14 +4,14 @@ To publish a broadcast to all subscribers:
 
 ## Installation:
 
-    go get github.com/DanielRenne/mangosServer/pub
+    go get github.com/davidrenne/mangosServer/pub
 
 ### Server Code
 
     package main
 
     import (
-    	"github.com/DanielRenne/mangosServer/pub"
+    	"github.com/davidrenne/mangosServer/pub"
     	"log"
     	"time"
     )
@@ -99,7 +99,7 @@ To publish a Topic to all topic subscribers.
     package main
 
     import (
-    	"github.com/DanielRenne/mangosServer/pub"
+    	"github.com/davidrenne/mangosServer/pub"
     	"log"
     	"time"
     )
